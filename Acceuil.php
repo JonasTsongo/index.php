@@ -1,3 +1,3 @@
 <?php
-echo "Bienvenu Sur Notre Site"
+echo "BIENVENU SUR LA PAGE DACCEUIL"
 ?>
