@@ -12,8 +12,8 @@
     <title>Exercice</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
 <nav class="presentation" id="presentation">
+         <h1> ETS YETU</h1>
         <ul>
             <li><a href="Acceuil.php">Acceuil</a></li>
             <li><a href="apropos.php">Apropos</a></li>

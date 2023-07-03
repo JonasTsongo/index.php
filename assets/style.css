@@ -2,9 +2,12 @@
 body{
   line-height: 1.5;
   font-family: 'Poppins', sans-serif;
-  background: #313131;
+ background-color:  #24262b;
 }
-
+h1{
+  margin: center;
+  
+} 
 * {
   margin: 0;
   padding: 0;
@@ -14,6 +17,12 @@ body{
   display: inline;
   text-align: right;
 }
+.presentation h1{
+  display: inline;
+  text-align: left;
+  margin-left: 80px;
+  color: #ffffff;
+}
 .img-cjelb{
   display: inline;
   width:1373px;;
@@ -21,7 +30,7 @@ body{
 .img-info h2{
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
-  color: #f30606;
+  color: #ffffff;
   line-height: 20px;
   text-align: center;
 }
@@ -44,7 +53,7 @@ li, a{
 ul li a{
   font-size: 26px;
   text-transform: capitalize;
-  color: #ffffff;
+  color:#ffffff;
   text-decoration: none;
   font-weight: 300px;
   color: #bbbbbb;
